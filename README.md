@@ -222,7 +222,6 @@ This significantly improves performance compared to querying membership individu
 
 ### 2.0.0
 
-- Renamed WorkforceID to EmployeeID
 - Added configurable AD attribute support
 - Improved validation and error handling
 - Added strict mode
