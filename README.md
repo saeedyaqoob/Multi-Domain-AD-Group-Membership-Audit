@@ -1,9 +1,8 @@
 # Multi-Domain AD Group Membership Audit Script
 
-<img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/0efa8285-ef09-4b90-90e2-0705c9eba218" />
+<img width="150" height="60" alt="image" src="https://github.com/user-attachments/assets/0efa8285-ef09-4b90-90e2-0705c9eba218" />
 
-<img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/1f4466b3-8a2b-43ce-a1c5-9168400531d7" />
-
+<img width="150" height="60" alt="image" src="https://github.com/user-attachments/assets/0ef88433-fe2e-4de2-9844-4e8937488dc9" />
 
 AD Group Membership Validation is a PowerShell utility that audits Active Directory group memberships across multiple domains using **EmployeeID** as the unique identifier.
 
