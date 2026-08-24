@@ -245,5 +245,3 @@ Security Analysis Analyst
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Modify and distribute according to your organization's policies.
