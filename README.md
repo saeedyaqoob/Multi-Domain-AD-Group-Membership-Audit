@@ -1,8 +1,4 @@
-# AD Group Membership Validation
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-wershell
-![Active Directory](https://img.shields.io/badge/Actived-green
-![Version](https://img.shields.io/badge/version-2.0.Overview
+# Multi-Domain AD Group Membership Audit Script
 
 AD Group Membership Validation is a PowerShell utility that audits Active Directory group memberships across multiple domains using **EmployeeID** as the unique identifier.
 
@@ -117,7 +113,7 @@ $EmployeeIDAttribute = "EmployeeID"
 If your organization stores the identifier in another attribute, update:
 
 ```powershell
-$EmployeeIDAttribute = "WorkforceID"
+$EmployeeIDAttribute = "CustomID"
 ```
 
 or any supported AD attribute name.
